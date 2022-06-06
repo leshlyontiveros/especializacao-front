@@ -2,6 +2,11 @@ import React from "react";
 import { Link } from "react-router-dom";
 import pokebola from "../../assets/pokebola.png";
 
+/**
+ * Componente que mostra o header
+ * @author Leshly Ontiveros
+ * @returns {JSX.Element}
+ */
 const Inicio = () => {
   return (
     <header className="App-header">
